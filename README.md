@@ -2,6 +2,8 @@
 
 End-to-end analysis of **8,807 Netflix movies and TV shows** using Python, MySQL and Power BI, to understand how the catalog has evolved and where Netflix should focus future content investment.
 
+![Netflix content added over the years](images/content_added_over_years.svg)
+
 ## 🎯 Business Question
 How has Netflix's catalog changed over time, and which content types, markets and audiences should it prioritize?
 
@@ -27,6 +29,10 @@ Netflix Movies & TV Shows (Kaggle): 8,807 titles × 12 columns, covering type, c
 | India vs US content mix | India **92.0% movies** vs US **74.7%** |
 | Adult-rated titles (TV-MA, R, NC-17) | about **45%** of the catalog |
 | Most common genres | International Movies (**2,752**), Dramas (**2,427**) |
+
+![TV show share of new additions](images/tv_share_of_additions.svg)
+
+![India vs US content mix](images/india_vs_us_content_mix.svg)
 
 ## 💡 Recommendations
 1. **Keep investing in TV series**, since their share of new additions is rising.
